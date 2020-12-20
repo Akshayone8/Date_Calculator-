@@ -6,7 +6,7 @@ const whatsEl=document.getElementById('whatTo');
 
 const whatToCheck=prompt('What do you want to Check');
 
-const getdetails=prompt('enter your Date');
+const getdetails=prompt('enter');
 
 const newYears=getdetails;
 
